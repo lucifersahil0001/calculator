@@ -1,0 +1,21 @@
+.calculator {
+    text-align: center;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+  }
+  
+  .input-container input {
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  .button-container button {
+    margin-right: 10px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
